@@ -1,0 +1,3 @@
+Nguyễn Phúc Tĩnh - B19DCCN587: viết controller, repository,html
+Nguyễn Duy Mạnh - B19DCCN417: viết model, validation
+Nguyễn Đình Quân -B19DCCN528: tạo csdl, viết html, css
